@@ -1,3 +1,3 @@
 googleCloudProjectId <- "digital-opt-group-analytics"
-dataset <- "YOUR_DIGITAL_OPT_GROUP_DATASET_NAME"
+dataset <- "digitaloptgroup"
 pathToServiceAccount <- "service-account.json"
