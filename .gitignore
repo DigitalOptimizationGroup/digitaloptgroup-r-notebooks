@@ -1,2 +1,3 @@
 config.R
 service-account.json
+.ipynb_checkpoints*
