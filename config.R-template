@@ -1,3 +1,6 @@
-googleCloudProjectId <- "digital-opt-group-analytics"
 dataset <- "YOUR_DIGITAL_OPT_GROUP_DATASET_NAME"
-pathToServiceAccount <- "service-account.json"
+billingProjectId <- "YOUR_GOOGLE_CLOUD_PROJECT_ID"
+pathToServiceAccount <- "/home/jupyter/service-account.json"
+
+# Digital Optimization Group BigQuery Parent Project - DO NOT EDIT
+digitalOptGroupBQid <- "digital-opt-group-analytics"
